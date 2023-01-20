@@ -14,4 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 print("hello world")
+print("BJTU is the best")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
